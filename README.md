@@ -1,10 +1,16 @@
-![javascriptimage](https://user-images.githubusercontent.com/94265654/210689025-267fa54d-6584-411a-b3e8-400820fa24fe.gif)
+<!-- ![Portada ](https://github.com/Fer-Mig-Agus/Fer-Mig-Agus/assets/98432911/e48b248d-e505-4710-a46e-b80a431771f8) -->
+<a href="https://portfolio-miguel-fernandez.netlify.app" target="_blank" >
+ 
+ <img src="https://github.com/Fer-Mig-Agus/Fer-Mig-Agus/assets/98432911/e48b248d-e505-4710-a46e-b80a431771f8" width="90%" height=auto >
+ 
+</a>
+<!-- ![javascriptimage](https://user-images.githubusercontent.com/94265654/210689025-267fa54d-6584-411a-b3e8-400820fa24fe.gif)-->
 
 
 
 <h1 align="center">Hi 👋, I'm Miguel Fernandez</h1>
 <h3 align="center">A passionate Full-Stack developer from Argentina</h3>
-<img alingn="right" alt="Coding" width="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+
 
 
 - 🔭 I’m currently working on <b>Sales Registration App</b>
