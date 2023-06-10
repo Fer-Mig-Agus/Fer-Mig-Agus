@@ -1,39 +1,21 @@
-<!-- ![Portada ](https://github.com/Fer-Mig-Agus/Fer-Mig-Agus/assets/98432911/e48b248d-e505-4710-a46e-b80a431771f8) -->
+
 <a href="https://portfolio-miguel-fernandez.netlify.app" target="_blank" >
- 
- <img src="https://github.com/Fer-Mig-Agus/Fer-Mig-Agus/assets/98432911/e48b248d-e505-4710-a46e-b80a431771f8" width="90%" height=auto >
+ <img src="https://github.com/Fer-Mig-Agus/Fer-Mig-Agus/assets/98432911/afb0ce2b-a272-4fc8-bb6a-9d413ade4c95" width="90%" height=auto >
  
 </a>
 <!-- ![javascriptimage](https://user-images.githubusercontent.com/94265654/210689025-267fa54d-6584-411a-b3e8-400820fa24fe.gif)-->
 
-
-
-<h1 align="center">Hi 👋, I'm Miguel Fernandez</h1>
 <h3 align="center">A passionate Full-Stack developer from Argentina</h3>
 
-
-
 - 🔭 I’m currently working on <b>Sales Registration App</b>
-
 
 - 🌱 I’m currently learning <b>Typescript</b>
 
 
-- 📫 How to reach me <b>miguelfernandez.m.f.8998@gmail.com</b>
+- 📫 How to reach me <miguelfernandez.m.f.8998@gmail.com>
 
 
 - ⚡ Fun fact <b>I am Funny</b>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fer-Mig-Agus&label=Profile%20views&color=0e75b6&style=flat" alt="Fer-Mig-Agus" /> </p>
-
-
-
-
-
-
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/94265654/210690533-3c257275-7a15-4810-8135-cb037e998123.gif">
@@ -90,8 +72,19 @@
 
 <h3 align="left">Support:</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fer-Mig-Agus&label=Profile%20views&color=0e75b6&style=flat" alt="Fer-Mig-Agus" /> </p>
+
+
+![github](https://img.shields.io/github/followers/Fer-Mig-Agus?style=social)
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fer-Mig-Agus&show_icons=true&locale=en" alt="Fer-Mig-Agus" /></p>
+
+
+
+<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Fer-Mig-Agus&show_icons=true)-->
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Fer-Mig-Agus&theme=blue-green)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fer-Mig-Agus&" alt="Fer-Mig-Agus" /></p>
 
