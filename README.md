@@ -12,7 +12,7 @@
 ---
 
 ### Sobre mí
-Hola 👋, mi nombre es Miguel es un placer que visites mi perfil, podes darle al follow ☺️ , me dedico al Desarrollo Web, al principio lo hice de manera auto didacta, aprendiendo HTML5, CSS3 y JS y tambien realice proyectos con esos lenguajes, pero queria aprender más queria llegar a otro nivel, por lo que me apliqué al bootcamp de Henry en el cual aprendi mucho en muy poco tiempo, y la verdad estoy muy contento con mi avance.
+Hola 👋, mi nombre es Miguel es un placer que visites mi perfil, podes darle al follow ☺️ , me dedico al Desarrollo Web, al principio lo hice de manera auto didacta, aprendiendo HTML5, CSS3 y JS, también realice proyectos con dichos lenguajes, pero quería aprender más, quería llegar a otro nivel, por lo que me apliqué al bootcamp de Henry en el cual aprendí mucho en muy poco tiempo, y la verdad estoy muy contento con mi avance.
 Aun me falta mucho por aprender y estoy dispuesto a poner todo de mi para hacerlo, para poder vivir de lo que me gusta y fascina.
 
 ---
@@ -21,7 +21,7 @@ Aun me falta mucho por aprender y estoy dispuesto a poner todo de mi para hacerl
 ### Lenguages y Herramientas
 
 <p align="left"> 
-  <a>
+  <a href="#">
   <img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=148&color=currentColor" alt="Node" width="60" height="40" />
  </a>
  
@@ -29,10 +29,10 @@ Aun me falta mucho por aprender y estoy dispuesto a poner todo de mi para hacerl
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
  
- <a>
+ <a href="#">
   <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=148&color=ffffff" alt="Express" width="60" height="40" />
  </a>
- <a>
+ <a href="#">
   <img src="https://icongr.am/devicon/sequelize-original.svg?size=148&color=currentColor" alt="Sequelize" width="40" height="40" />
  </a>
  
@@ -50,7 +50,7 @@ Aun me falta mucho por aprender y estoy dispuesto a poner todo de mi para hacerl
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
- <a>
+ <a href="#">
   <img src="https://icongr.am/devicon/c-original.svg?size=137&color=currentColor" alt="C" width="40" height="40" />
  </a>
  
@@ -68,9 +68,12 @@ Aun me falta mucho por aprender y estoy dispuesto a poner todo de mi para hacerl
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
- <a>
+ <a href="#">
   <img src="https://icongr.am/devicon/react-original.svg?size=148&color=currentColor" alt="React" width="40" height="40" />
  </a>
+   <a href="#">
+        <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png" width="50" height="50" alt="Redux" />
+      </a>
    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
  </a>
