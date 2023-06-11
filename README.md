@@ -1,28 +1,37 @@
-
+<!-- Portada de Inicio -->
 <a href="https://portfolio-miguel-fernandez.netlify.app" target="_blank" >
  <img src="https://github.com/Fer-Mig-Agus/Fer-Mig-Agus/assets/98432911/afb0ce2b-a272-4fc8-bb6a-9d413ade4c95" width="90%" height=auto >
  
 </a>
+<!-- Portada opcional -->
 <!-- ![javascriptimage](https://user-images.githubusercontent.com/94265654/210689025-267fa54d-6584-411a-b3e8-400820fa24fe.gif)-->
 
-<h3 align="center">A passionate Full-Stack developer from Argentina</h3>
 
-- 🔭 I’m currently working on <b>Sales Registration App</b>
+<!-- Comentario -->
+<h3 align="center">:computer:  Un apasionado desarrollador Full-Stack de Argentina  :computer:</h3>
 
-- 🌱 I’m currently learning <b>Typescript</b>
+### Sobre mí
+Hola, mi nombre es Miguel es un placer que visites mi perfil, podes darle al follow :relaxed: , me dedico al Desarrollo Web, al principio lo hice de manera auto didacta, aprendiendo HTML5, CSS3 y JS y tambien realice proyectos con esos lenguajes, pero queria aprender más queria llegar a otro nivel, por lo que me apliqué al bootcamp de Henry en el cual aprendi mucho en muy poco tiempo, y la verdad estoy muy contento con mi avance.
+Aun me falta mucho por aprender y estoy dispuesto a poner todo de mi para hacerlo.
 
 
-- 📫 How to reach me <miguelfernandez.m.f.8998@gmail.com>
+<!-- Comentario -->
 
 
-- ⚡ Fun fact <b>I am Funny</b>
 
-<h3 align="left">Languages and Tools:</h3>
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/94265654/210690533-3c257275-7a15-4810-8135-cb037e998123.gif">
+<!-- Comentario -->
+
+
+
+<!-- Comentario -->
+
+
+
+<!-- Comentario -->
+
+### Lenguages y Herramientas
 
 <p align="left"> 
- 
-  
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
