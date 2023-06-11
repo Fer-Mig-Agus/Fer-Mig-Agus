@@ -1,7 +1,6 @@
 <!-- Portada de Inicio -->
 <a href="https://portfolio-miguel-fernandez.netlify.app" target="_blank" >
  <img src="https://github.com/Fer-Mig-Agus/Fer-Mig-Agus/assets/98432911/afb0ce2b-a272-4fc8-bb6a-9d413ade4c95" width="90%" height=auto >
- 
 </a>
 <!-- Portada opcional -->
 <!-- ![javascriptimage](https://user-images.githubusercontent.com/94265654/210689025-267fa54d-6584-411a-b3e8-400820fa24fe.gif)-->
@@ -10,24 +9,14 @@
 <!-- Comentario -->
 <h3 align="center">:computer:  Un apasionado desarrollador Full-Stack de Argentina  :computer:</h3>
 
+---
+
 ### Sobre mí
-Hola, mi nombre es Miguel es un placer que visites mi perfil, podes darle al follow :relaxed: , me dedico al Desarrollo Web, al principio lo hice de manera auto didacta, aprendiendo HTML5, CSS3 y JS y tambien realice proyectos con esos lenguajes, pero queria aprender más queria llegar a otro nivel, por lo que me apliqué al bootcamp de Henry en el cual aprendi mucho en muy poco tiempo, y la verdad estoy muy contento con mi avance.
-Aun me falta mucho por aprender y estoy dispuesto a poner todo de mi para hacerlo.
+Hola 👋, mi nombre es Miguel es un placer que visites mi perfil, podes darle al follow ☺️ , me dedico al Desarrollo Web, al principio lo hice de manera auto didacta, aprendiendo HTML5, CSS3 y JS y tambien realice proyectos con esos lenguajes, pero queria aprender más queria llegar a otro nivel, por lo que me apliqué al bootcamp de Henry en el cual aprendi mucho en muy poco tiempo, y la verdad estoy muy contento con mi avance.
+Aun me falta mucho por aprender y estoy dispuesto a poner todo de mi para hacerlo, para poder vivir de lo que me gusta y fascina.
 
-
-<!-- Comentario -->
-
-
-
-<!-- Comentario -->
-
-
-
-<!-- Comentario -->
-
-
-
-<!-- Comentario -->
+---
+---
 
 ### Lenguages y Herramientas
 
@@ -79,7 +68,20 @@ Aun me falta mucho por aprender y estoy dispuesto a poner todo de mi para hacerl
   
 </p>
 
-<h3 align="left">Support:</h3>
+---
+---
+
+# Contáctame
+
+* ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)   : <miguelfernandez.m.f.8998@gmail.com>
+* ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)   : <a href:"https://www.linkedin.com/in/miguel-agustin-fernandez-aa1596248/" target="__blank">Perfil aquí</a>
+* ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)   : **Miguel Fernandez#6941**
+* ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)   : <a href:"https://portfolio-miguel-fernandez.netlify.app/" target="__blank">Porfolio aquí</a>
+
+
+---
+---
+# Más sobre mí
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Fer-Mig-Agus&label=Profile%20views&color=0e75b6&style=flat" alt="Fer-Mig-Agus" /> </p>
 
