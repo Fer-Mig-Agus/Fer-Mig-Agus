@@ -74,9 +74,12 @@ Aun me falta mucho por aprender y estoy dispuesto a poner todo de mi para hacerl
 # Contáctame
 
 * ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)   : <miguelfernandez.m.f.8998@gmail.com>
-* ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)   : <a href:"https://www.linkedin.com/in/miguel-agustin-fernandez-aa1596248/" target="__blank">Perfil aquí</a>
+
+* ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)   : <a href="https://www.linkedin.com/in/miguel-agustin-fernandez-aa1596248/" target="_blank" > Perfil aquí </a>
+
 * ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)   : **Miguel Fernandez#6941**
-* ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)   : <a href:"https://portfolio-miguel-fernandez.netlify.app/" target="__blank">Porfolio aquí</a>
+
+* ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)   : <a href="https://portfolio-miguel-fernandez.netlify.app/" target="_blank" > Porfolio aquí </a>
 
 
 ---
