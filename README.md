@@ -1,13 +1,17 @@
+
+<!-- Portada opcional -->
+<!-- ![javascriptimage](https://user-images.githubusercontent.com/94265654/210689025-267fa54d-6584-411a-b3e8-400820fa24fe.gif)-->
+
+---
+<!-- Comentario -->
+<h3 align="center">:computer:  Un apasionado desarrollador Full-Stack de Argentina  :computer:</h3>
+
+---
+
 <!-- Portada de Inicio -->
 <a href="https://portfolio-miguel-fernandez.netlify.app" target="_blank" >
  <img src="https://github.com/Fer-Mig-Agus/Fer-Mig-Agus/assets/98432911/afb0ce2b-a272-4fc8-bb6a-9d413ade4c95" width="90%" height=auto >
 </a>
-<!-- Portada opcional -->
-<!-- ![javascriptimage](https://user-images.githubusercontent.com/94265654/210689025-267fa54d-6584-411a-b3e8-400820fa24fe.gif)-->
-
-
-<!-- Comentario -->
-<h3 align="center">:computer:  Un apasionado desarrollador Full-Stack de Argentina  :computer:</h3>
 
 ---
 
