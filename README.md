@@ -104,7 +104,8 @@ Aun me falta mucho por aprender y estoy dispuesto a poner todo de mi para hacerl
 * ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)   : **miguelfernandez8998**
 
 * ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)   : <a href="https://www.mfdev.tech" target="_blank" > Porfolio aquí </a>
-![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white) : <a href="https://drive.google.com/file/d/1--K9BsLzD3RJdCSvyKplbZurKQywdpZR/view?usp=drive_link" > Ver CV </a>
+
+* ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white) : <a href="https://drive.google.com/file/d/1--K9BsLzD3RJdCSvyKplbZurKQywdpZR/view?usp=drive_link" > Ver CV </a>
 
 
 ---
