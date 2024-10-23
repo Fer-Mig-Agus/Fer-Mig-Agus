@@ -16,8 +16,7 @@
 ---
 
 ### Sobre mí
-Hola 👋, mi nombre es Miguel es un placer que visites mi perfil, podes darle al follow ☺️ , me dedico al Desarrollo Web, al principio lo hice de manera auto didacta, aprendiendo HTML5, CSS3 y JS, también realice proyectos con dichos lenguajes, pero quería aprender más, quería llegar a otro nivel, por lo que me apliqué al bootcamp de Henry en el cual aprendí mucho en muy poco tiempo, y la verdad estoy muy contento con mi avance.
-Aun me falta mucho por aprender y estoy dispuesto a poner todo de mi para hacerlo, para poder vivir de lo que me gusta y fascina.
+Hola, 😄mi nombre es Miguel y soy Desarrollador Full Stack con experiencia en desarrollo Frontend y Backend utilizando tecnologías como React, Redux, CSS Modules, Node.js, Express, Sequelize y PostgreSQL. He trabajado como Tech Leader en proyectos, gestionando equipos y mejorando la eficiencia. Aprendo rápidamente nuevas tecnologías, adaptándome fácilmente a entornos cambiantes. A través de varios proyectos, he perfeccionado mis habilidades en diseño de arquitectura web, integración de APIs y optimización de rendimiento. Estoy en constante aprendizaje de nuevas herramientas y mejores prácticas para crear soluciones eficientes y escalables. Abierto a nuevas oportunidades, con ganas de seguir aprendiendo más.
 
 ---
 ---
