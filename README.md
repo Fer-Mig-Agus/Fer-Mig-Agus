@@ -8,10 +8,12 @@
 
 ---
 
-<!-- Portada de Inicio -->
-<a href="https://portfolio-miguel-fernandez.netlify.app" target="_blank" >
+<!-- Portada de Inicio 
+<!--<a href="https://portfolio-miguel-fernandez.netlify.app" target="_blank" >
  <img src="https://github.com/Fer-Mig-Agus/Fer-Mig-Agus/assets/98432911/afb0ce2b-a272-4fc8-bb6a-9d413ade4c95" width="90%" height=auto >
-</a>
+</a>-->
+![Portada](https://res.cloudinary.com/dgp4xwknu/image/upload/v1729728738/Portfolio%20Miguel%20Fernandez/Portada_Video_GitHub_knmnku.gif)
+
 
 ---
 
