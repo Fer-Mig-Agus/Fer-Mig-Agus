@@ -13,7 +13,7 @@
  <img src="https://github.com/Fer-Mig-Agus/Fer-Mig-Agus/assets/98432911/afb0ce2b-a272-4fc8-bb6a-9d413ade4c95" width="90%" height=auto >
 </a>-->
 <div align="center">
-  <img src="https://res.cloudinary.com/dgp4xwknu/image/upload/v1729728738/Portfolio%20Miguel%20Fernandez/Portada_Video_GitHub_knmnku.gif" alt="Portada" style="width: 90%; height: auto;" />
+  <img src="https://res.cloudinary.com/dgp4xwknu/image/upload/v1729728738/Portfolio%20Miguel%20Fernandez/Portada_Video_GitHub_knmnku.gif" alt="Portada" title="Vista Principal de: www.mfdev.tech" />
 </div>
 
 
