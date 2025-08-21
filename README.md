@@ -21,8 +21,16 @@
 ---
 
 ### Sobre mí
-Hola, 😄mi nombre es Miguel y soy Desarrollador Full Stack con experiencia en desarrollo Frontend y Backend utilizando tecnologías como React, Redux, CSS Modules, Node.js, Express, Sequelize y PostgreSQL. He trabajado como Tech Leader en proyectos, gestionando equipos y mejorando la eficiencia. Aprendo rápidamente nuevas tecnologías, adaptándome fácilmente a entornos cambiantes. A través de varios proyectos, he perfeccionado mis habilidades en diseño de arquitectura web, integración de APIs y optimización de rendimiento. Estoy en constante aprendizaje de nuevas herramientas y mejores prácticas para crear soluciones eficientes y escalables. Abierto a nuevas oportunidades, con ganas de seguir aprendiendo más.
+Hola, soy Miguel, desarrollador con experiencia en frontend y backend utilizando tecnologías como React, Redux, CSS Modules, Node.js, Express, Sequelize y PostgreSQL.
+Durante mi trayectoria he liderado proyectos como Tech Leader, gestionando equipos y optimizando procesos, lo que me ha dado una visión integral para construir soluciones eficientes y escalables.
 
+Actualmente trabajo en AutoScraping, donde me especializo en la extracción de datos de diversas fuentes, incluyendo sitios de eCommerce y supermercados. Utilizo herramientas y librerías como requests, curl_cffi, lxml y, cuando es necesario, Selenium (tanto en Grid como en modo driverless) para abordar retos complejos. Entre mis logros, desarrollé un bot que aporta un alto valor estratégico a la empresa.
+
+Mi base en desarrollo web me ha dado una ventaja clave en scraping: comprendo a fondo las estructuras HTML, el manejo de APIs, y el diseño de bases de datos relacionales y no relacionales, lo que me permite diseñar procesos más eficientes y precisos.
+
+Sigo en constante aprendizaje, perfeccionando mis habilidades y explorando nuevas tecnologías. Aunque hoy mi enfoque principal es el scraping, también puedo desempeñarme como desarrollador web cuando el proyecto lo requiera.
+
+Siempre abierto a nuevas oportunidades y desafíos que me permitan seguir creciendo.
 ---
 ---
 
@@ -103,11 +111,11 @@ Hola, 😄mi nombre es Miguel y soy Desarrollador Full Stack con experiencia en 
 
 * ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)   : <miguelfernandez.m.f.8998@gmail.com>
 
-* ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)   : <a href="https://www.linkedin.com/in/miguel-agustin-fernandez-aa1596248/" target="_blank" > Perfil aquí </a>
+* ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)   : <a href="https://www.linkedin.com/in/miguel-agustin-fernandez-aa1596248/" target="_blank" >Link del Perfil</a>
 
 * ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)   : **miguelfernandez8998**
 
-* ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)   : <a href="https://www.mfdev.tech" target="_blank" > Porfolio aquí </a>
+* ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)   : <a href="https://www.mfdev.vercel.app/" target="_blank" >Link del Porfolio</a>
 
 * ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white) : <a href="https://drive.google.com/file/d/1--K9BsLzD3RJdCSvyKplbZurKQywdpZR/view?usp=drive_link" > Ver CV </a>
 
