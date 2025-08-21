@@ -115,9 +115,9 @@ Siempre abierto a nuevas oportunidades y desafíos que me permitan seguir crecie
 
 * ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)   : **miguelfernandez8998**
 
-* ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)   : [Link del Portfolio]("https://www.mfdev.vercel.app/")
+* ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)   : [Link del Portfolio](https://www.mfdev.vercel.app/)
 
-* ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white) : [Ver CV]("https://drive.google.com/file/d/1--K9BsLzD3RJdCSvyKplbZurKQywdpZR/view?usp=drive_link")
+* ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white) : [Ver CV](https://drive.google.com/file/d/1--K9BsLzD3RJdCSvyKplbZurKQywdpZR/view?usp=drive_link)
 
 
 ---
